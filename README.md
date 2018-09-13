@@ -6,14 +6,12 @@
 ## Authors
 * [Brian-Ng'eno](https://github.com/BrianNgeno)
 
+
 * [Feysal-Ibrahim](https://github.com/feysal-Ibrahim)
 
 * [Leskey-Levy](https://github.com/leskeylevy)
 
-
 * [Bashir-Hassan](https://github.com/billowbashir)
-
-* [Leskey-Levy](https://github.com/leskeylevy)
 
 ## Prerequisites
 _What things you need to install the software and how to install them_
