@@ -5,6 +5,7 @@
 
 ## Authors
 * [Brian-Ng'eno](https://github.com/BrianNgeno)
+* [Feysal-Ibrahim](https://github.com/feysal-Ibrahim)
 
 ## Prerequisites
 _What things you need to install the software and how to install them_
