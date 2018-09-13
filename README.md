@@ -11,6 +11,9 @@
 
 * [Leskey-Levy](https://github.com/leskeylevy)
 
+* [Bashir-Hassan](https://github.com/billowbashir)
+
+
 ## Prerequisites
 _What things you need to install the software and how to install them_
 _`Give the example`_
