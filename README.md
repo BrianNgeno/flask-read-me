@@ -7,9 +7,12 @@
 * [Brian-Ng'eno](https://github.com/BrianNgeno)
 * [Austin Karuru](https://github.com/austinkaruru)
 
-* [Bashir-Hassan](https://github.com/billowbashir)
+
+* [Feysal-Ibrahim](https://github.com/feysal-Ibrahim)
 
 * [Leskey-Levy](https://github.com/leskeylevy)
+
+* [Bashir-Hassan](https://github.com/billowbashir)
 
 ## Prerequisites
 _What things you need to install the software and how to install them_
