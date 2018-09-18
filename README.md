@@ -11,6 +11,7 @@
 * [Feysal-Ibrahim](https://github.com/feysal-Ibrahim)
 
 * [Leskey-Levy](https://github.com/leskeylevy)
+* [ Kevin Jared](https://github.com/kevinjared)
 
 * [Bashir-Hassan](https://github.com/billowbashir)
 
